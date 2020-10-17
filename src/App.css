@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  width: 600px;
+  
+}
+.error {
+  color: red;
+  font-size: small;
+}
